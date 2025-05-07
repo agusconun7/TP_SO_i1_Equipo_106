@@ -7,3 +7,4 @@ A: SI
 B: SI
 C: SI
 D: DISCORD
+E: CON COMMIT
